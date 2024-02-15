@@ -1,6 +1,6 @@
 Auth:
-  project_token: fe195591-f910-43ed-a8cd-324386fb6af2
-  customer_token: df0d4185-7142-4ce1-999e-25eb8a76e80a
+  project_token: e36b3c97-94aa-4c94-97a5-02124142af4a
+  customer_token: 6adf1fb5-cba2-4a30-bf64-6e11d8e99fdc
 SAST:
   language: php
 SCA:
